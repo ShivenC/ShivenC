@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Shiven Chhugani</h1>
 <h3 align="center">A passionate cybersecurity student in Tampa, Florida</h3>
 
-- 🔭 I have finished my first website which is a fullstack MERN project: [(https://github.com/ShivenC/CTM)]
+- 🔭 I have finished my first website which is a fullstack MERN project: (https://github.com/ShivenC/CTM)
 
 - 🌱 I’m currently learning **network software related to core concepts of cybersecurity.**
 
