@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Shiven Chhugani</h1>
 <h3 align="center">A passionate cybersecurity student in Tampa, Florida</h3>
 
-- 🔭 I have finished my first website which is a fullstack MERN project: (https://github.com/ShivenC/CTM)
+- 🔭 I have finished my first website which is a fullstack MERN project(https://github.com/ShivenC/CTM); https://ctm-website.vercel.app/
 
 - 🌱 I’m currently learning **network software related to core concepts of cybersecurity.**
 
-- 🔭 I completed another robot project tasked as the software lead: my first website project: [Turtle Robot](Turtle-Robot)
+- 🔭 I completed another robot project tasked as the software lead: my first website project https://github.com/ShivenC/Turtle-Robot
 
-- 🔭 I also finished my portfolio website: [Shiven's Portfolio](Portfolio)
+- 🔭 I also finished my portfolio website (https://github.com/ShivenC/Portfolio): https://shivenchhugani.netlify.app/
 
 - 👨‍💻 All of my projects are available at [Portfolio](Portfolio)
 
