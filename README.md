@@ -9,7 +9,7 @@
 
 - 🔭 I also finished my portfolio website (https://github.com/ShivenC/Portfolio): https://shivenchhugani.netlify.app/
 
-- 👨‍💻 All of my projects are available at [Portfolio](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ctm-website.vercel.app/)
 
 - 💬 Ask me about **Backend and Frontend Website Development.**
 
