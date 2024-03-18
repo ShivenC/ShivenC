@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **network software related to core concepts of cybersecurity.**
 
-- 🔭 I completed another robot project tasked as the software lead: my first website project https://github.com/ShivenC/Turtle-Robot
+- 🔭 I completed another robot project tasked as the software lead: my first website project [Turtle Robot Github](https://github.com/ShivenC/Turtle-Robot)
 
 - 🔭 I also finished my portfolio website (https://github.com/ShivenC/Portfolio): [Portfolio](https://shivenchhugani.netlify.app/)
 
