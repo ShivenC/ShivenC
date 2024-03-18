@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shivenchhugani@gmail.com**
 
-- 📄 Know about my experiences [https://shivenchhugani.netlify.app/assests/Resume.pdf](https://shivenchhugani.netlify.app/assests/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://shivenchhugani.netlify.app/assests/Resume.pdf)
 
 - ⚡ Fun fact **I enjoy soccer and the gym.**
 
