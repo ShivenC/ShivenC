@@ -7,8 +7,6 @@
 
 - 🔭 I completed another robot project tasked as the software lead: my first website project [Turtle Robot Github](https://github.com/ShivenC/Turtle-Robot)
 
-- 🔭 I also finished my portfolio website: [Portfolio](https://shivenchhugani.netlify.app/)
-
 - 👨‍💻 All of my projects are available at [Projects](https://www.linkedin.com/in/shiven-chhugani/)
 
 - 💬 Ask me about **Backend and Frontend Website Development.**
