@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://shivenhomelab.vercel.app/"><img src="https://img.shields.io/badge/SIEM_%26_SOC_Home_Lab-0a0e14?style=for-the-badge&logo=splunk&logoColor=5ce6a1" alt="Home Lab"/></a>
-  <a href="https://linkedin.com/in/shiven-chhugani"><img alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/shiven-chhugani"></a>
   <a href="mailto:shivenchhugani@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
