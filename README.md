@@ -1,26 +1,53 @@
-<h1 align="center">Hey, I'm Shiven Chhugani</h1>
-<h3 align="center">A passionate cybersecurity student in Tampa, Florida</h3>
+<h1 align="center">Shiven Chhugani</h1>
+<p align="center">Cybersecurity student @ USF · Tampa, FL · SOC &amp; detection-focused</p>
 
-- 🔭 I have finished my first website which is a fullstack MERN project: [Collaborative Task Manager](https://ctm-website.vercel.app/)
-
-- 🌱 I’m currently learning **network software related to core concepts of cybersecurity.**
-
-- 🔭 I completed another robot project tasked as the software lead: my first website project [Turtle Robot Github](https://github.com/ShivenC/Turtle-Robot)
-
-- 👨‍💻 All of my projects are available at [Projects](https://www.linkedin.com/in/shiven-chhugani/)
-
-- 💬 Ask me about **Backend and Frontend Website Development.**
-
-- 📫 How to reach me **shivenchhugani@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://shivenchhugani.netlify.app/assests/Resume.pdf)
-
-- ⚡ Fun fact **I enjoy soccer and the gym.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shiven chhugani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiven chhugani" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://shivenhomelab.vercel.app/"><img src="https://img.shields.io/badge/SIEM_%26_SOC_Home_Lab-0a0e14?style=for-the-badge&logo=splunk&logoColor=5ce6a1" alt="Home Lab"/></a>
+  <a href="https://linkedin.com/in/shiven-chhugani"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shivenchhugani@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### About
+
+- 🛡️ Cybersecurity B.S. @ University of South Florida (May 2026), focused on **SOC operations, detection engineering, and incident response**
+- 🔬 Building a **[SIEM &amp; SOC Home Lab](https://shivenhomelab.vercel.app/)** — a segmented multi-VM network where I run real attacks and detect them with MITRE ATT&amp;CK–aligned Splunk searches
+- 🧰 Completed a SOC apprenticeship at **ReliaQuest** (alert triage, threat investigation, remediation reporting)
+- 📜 **Security+ · Network+ · CySA+** · AWS CCP (in progress)
+- 📫 Reach me at **shivenchhugani@gmail.com**
+
+---
+
+### Featured project
+
+**[SIEM &amp; SOC Home Lab →](https://shivenhomelab.vercel.app/)**
+Active Directory · pfSense · Suricata · Splunk · Kali. Attack from Kali, watch it land in the SIEM, engineer the detection that catches it. Brute force, Kerberoasting, LSASS dumping, lateral movement — all mapped to MITRE ATT&amp;CK.
+
+---
+
+### Tools &amp; technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white" alt="pfSense"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-c1121f?style=flat&logoColor=white" alt="MITRE"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivenC&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e14&title_color=5ce6a1&icon_color=ffb454" alt="stats" height="150"/>
+</p>
