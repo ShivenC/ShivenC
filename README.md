@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://shivenhomelab.vercel.app/"><img src="https://img.shields.io/badge/SIEM_%26_SOC_Home_Lab-0a0e14?style=for-the-badge&logo=splunk&logoColor=5ce6a1" alt="Home Lab"/></a>
-  <a href="https://linkedin.com/in/shiven-chhugani"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/shiven-chhugani"><img alt="LinkedIn"/></a>
   <a href="mailto:shivenchhugani@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -48,6 +48,3 @@ Active Directory · pfSense · Suricata · Splunk · Kali. Attack from Kali, wat
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivenC&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e14&title_color=5ce6a1&icon_color=ffb454" alt="stats" height="150"/>
-</p>
